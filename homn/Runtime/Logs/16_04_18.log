@@ -1,0 +1,1107 @@
+[ 2016-04-18T01:27:28+08:00 ] 0.0.0.0 /github/dongman/index.php/Index/index.php
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.001159s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001343s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000589s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000693s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.000918s ]
+INFO: [ view_template ] --END-- [ RunTime:0.001111s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.034024s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.034242s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000590s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000490s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000413s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000663s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002460s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.000654s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000734s ]
+
+[ 2016-04-18T01:28:19+08:00 ] 0.0.0.0 /github/dongman/index.php/Index/index.php
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000820s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000926s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001086s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001242s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.000811s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000922s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.012658s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012815s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000887s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000871s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000599s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000725s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003421s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.000699s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000773s ]
+
+[ 2016-04-18T12:39:06+08:00 ] 0.0.0.0 /github/dongman/index.php
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.019109s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.019304s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.028595s ]
+INFO: [ view_template ] --END-- [ RunTime:0.028776s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.099861s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.100105s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.020637s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.017516s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.009394s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.003319s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.051537s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.002833s ]
+INFO: [ view_end ] --END-- [ RunTime:0.003162s ]
+
+[ 2016-04-18T12:39:16+08:00 ] 0.0.0.0 /github/dongman/index.php
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000694s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000803s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.000737s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000843s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.007681s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007800s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000536s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000501s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000388s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000610s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002307s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.001061s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001238s ]
+
+[ 2016-04-18T12:39:18+08:00 ] 0.0.0.0 /github/dongman/index.php
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000560s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000667s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.000761s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000892s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.008640s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008759s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000549s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000488s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000374s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000587s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002268s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.000631s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000721s ]
+
+[ 2016-04-18T12:39:35+08:00 ] 0.0.0.0 /github/dongman/index.php/Index/index
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.020117s ]
+INFO: [ route_check ] --END-- [ RunTime:0.020242s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000582s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000675s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.000886s ]
+INFO: [ view_template ] --END-- [ RunTime:0.001081s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.010837s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011022s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000418s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000399s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000261s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000454s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001784s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.000558s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000651s ]
+
+[ 2016-04-18T14:29:05+08:00 ] 0.0.0.0 /github/dongman/index.php
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000676s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000783s ]
+SQL: SHOW COLUMNS FROM `cartoon` [ RunTime:0.004267s ]
+SQL: SELECT * FROM `cartoon` ORDER BY id desc  [ RunTime:0.000331s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.001029s ]
+INFO: [ view_template ] --END-- [ RunTime:0.001126s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.009239s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009365s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000632s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000573s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000540s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000816s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002807s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.000712s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000799s ]
+
+[ 2016-04-18T14:29:17+08:00 ] 0.0.0.0 /github/dongman/index.php
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.003326s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003770s ]
+SQL: SHOW COLUMNS FROM `cartoon` [ RunTime:0.012003s ]
+SQL: SELECT * FROM `cartoon` ORDER BY id desc  [ RunTime:0.000967s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.003159s ]
+INFO: [ view_template ] --END-- [ RunTime:0.003534s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.033470s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.033842s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.002547s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.004025s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.001998s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.002663s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.012372s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.002386s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002695s ]
+
+[ 2016-04-18T14:29:18+08:00 ] 0.0.0.0 /github/dongman/index.php
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001402s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001631s ]
+SQL: SHOW COLUMNS FROM `cartoon` [ RunTime:0.006606s ]
+SQL: SELECT * FROM `cartoon` ORDER BY id desc  [ RunTime:0.049558s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.004049s ]
+INFO: [ view_template ] --END-- [ RunTime:0.004374s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.029737s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.030283s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.002041s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.001831s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.001494s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.003517s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.009857s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.002322s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002618s ]
+
+[ 2016-04-18T14:29:20+08:00 ] 0.0.0.0 /github/dongman/index.php
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000699s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000812s ]
+SQL: SHOW COLUMNS FROM `cartoon` [ RunTime:0.003809s ]
+SQL: SELECT * FROM `cartoon` ORDER BY id desc  [ RunTime:0.000391s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.000993s ]
+INFO: [ view_template ] --END-- [ RunTime:0.001091s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.010528s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010704s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000675s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000570s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000448s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000717s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002698s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.000691s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000776s ]
+
+[ 2016-04-18T14:32:10+08:00 ] 0.0.0.0 /github/dongman/index.php
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000716s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000821s ]
+SQL: SHOW COLUMNS FROM `cartoon` [ RunTime:0.004222s ]
+SQL: SELECT * FROM `cartoon` ORDER BY id desc  [ RunTime:0.016958s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.001019s ]
+INFO: [ view_template ] --END-- [ RunTime:0.001117s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.009366s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009534s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000823s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000600s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000453s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000636s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002806s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.000687s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000773s ]
+
+[ 2016-04-18T14:35:10+08:00 ] 0.0.0.0 /github/dongman/index.php
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001971s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002259s ]
+SQL: SHOW COLUMNS FROM `cartoon` [ RunTime:0.009651s ]
+SQL: SELECT * FROM `cartoon` ORDER BY id desc  [ RunTime:0.000711s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.002586s ]
+INFO: [ view_template ] --END-- [ RunTime:0.002870s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.022869s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.023171s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.001351s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.001281s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000987s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.001539s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005791s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.002439s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002668s ]
+
+[ 2016-04-18T14:35:12+08:00 ] 0.0.0.0 /github/dongman/index.php
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.004070s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004524s ]
+SQL: SHOW COLUMNS FROM `cartoon` [ RunTime:0.007964s ]
+SQL: SELECT * FROM `cartoon` ORDER BY id desc  [ RunTime:0.000568s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.002452s ]
+INFO: [ view_template ] --END-- [ RunTime:0.002688s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.024784s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.025360s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.002032s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.001556s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.002233s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.001443s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.008085s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.002248s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002537s ]
+
+[ 2016-04-18T14:38:00+08:00 ] 0.0.0.0 /github/dongman/index.php
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001588s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001883s ]
+SQL: SHOW COLUMNS FROM `cartoon` [ RunTime:0.006644s ]
+SQL: SELECT * FROM `cartoon` ORDER BY id desc  [ RunTime:0.000424s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.001283s ]
+INFO: [ view_template ] --END-- [ RunTime:0.001424s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.012397s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012580s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000828s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000725s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000813s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000991s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003773s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.000986s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001111s ]
+
+[ 2016-04-18T14:38:54+08:00 ] 0.0.0.0 /github/dongman/index.php
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.003006s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003511s ]
+SQL: SHOW COLUMNS FROM `cartoon` [ RunTime:0.009579s ]
+SQL: SELECT * FROM `cartoon` ORDER BY id desc  [ RunTime:0.000841s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.002434s ]
+INFO: [ view_template ] --END-- [ RunTime:0.002707s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.023022s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.023271s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.001314s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.001199s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000927s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.001359s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005311s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.001571s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001764s ]
+
+[ 2016-04-18T15:29:31+08:00 ] 0.0.0.0 /github/dongman/index.php
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000812s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000925s ]
+SQL: SHOW COLUMNS FROM `cartoon` [ RunTime:0.003341s ]
+SQL: SELECT * FROM `cartoon` ORDER BY id desc  [ RunTime:0.000237s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.001057s ]
+INFO: [ view_template ] --END-- [ RunTime:0.001145s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.008876s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009007s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000611s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000602s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000510s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000660s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002630s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.001146s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001273s ]
+
+[ 2016-04-18T15:30:56+08:00 ] 0.0.0.0 /github/dongman/index.php
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001468s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001821s ]
+SQL: SHOW COLUMNS FROM `cartoon` [ RunTime:0.003277s ]
+SQL: SELECT * FROM `cartoon` ORDER BY id desc  [ RunTime:0.000320s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.000867s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000949s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.008534s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008650s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000548s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000498s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000427s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000566s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002261s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.000636s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000718s ]
+
+[ 2016-04-18T16:40:11+08:00 ] 0.0.0.0 /github/dongman/index.php
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001689s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001877s ]
+SQL: SHOW COLUMNS FROM `cartoon` [ RunTime:0.003521s ]
+SQL: SELECT * FROM `cartoon` ORDER BY id desc  [ RunTime:0.000312s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.000853s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000931s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] A non well formed numeric value encountered F:\server\wamp\www\github\dongman\homn\Runtime\Cache\92b14036a2a2fecd9fdfe1917dc46c7b.php 第 82 行.
+INFO: Run ParseTemplate Behavior [ RunTime:0.008350s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008470s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000543s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000514s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000395s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000560s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002213s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.000611s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000680s ]
+
+[ 2016-04-18T16:59:17+08:00 ] 0.0.0.0 /github/dongman/index.php
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001553s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001778s ]
+SQL: SHOW COLUMNS FROM `cartoon` [ RunTime:0.004758s ]
+SQL: SELECT * FROM `cartoon` ORDER BY id desc  [ RunTime:0.000347s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.001129s ]
+INFO: [ view_template ] --END-- [ RunTime:0.001251s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] A non well formed numeric value encountered F:\server\wamp\www\github\dongman\homn\Runtime\Cache\92b14036a2a2fecd9fdfe1917dc46c7b.php 第 82 行.
+INFO: Run ParseTemplate Behavior [ RunTime:0.011331s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011473s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000599s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000514s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000397s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000518s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002260s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.000563s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000633s ]
+
+[ 2016-04-18T16:59:26+08:00 ] 0.0.0.0 /github/dongman/index.php
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001398s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001599s ]
+SQL: SHOW COLUMNS FROM `cartoon` [ RunTime:0.003522s ]
+SQL: SELECT * FROM `cartoon` ORDER BY id desc  [ RunTime:0.000322s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.000927s ]
+INFO: [ view_template ] --END-- [ RunTime:0.001017s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] A non well formed numeric value encountered F:\server\wamp\www\github\dongman\homn\Runtime\Cache\92b14036a2a2fecd9fdfe1917dc46c7b.php 第 82 行.
+INFO: Run ParseTemplate Behavior [ RunTime:0.008928s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009065s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000581s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000456s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000381s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000518s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002202s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.000572s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000640s ]
+
+[ 2016-04-18T16:59:36+08:00 ] 0.0.0.0 /github/dongman/index.php
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000723s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000836s ]
+SQL: SHOW COLUMNS FROM `cartoon` [ RunTime:0.006528s ]
+SQL: SELECT * FROM `cartoon` ORDER BY id desc  [ RunTime:0.000468s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.001136s ]
+INFO: [ view_template ] --END-- [ RunTime:0.001249s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] A non well formed numeric value encountered F:\server\wamp\www\github\dongman\homn\Runtime\Cache\92b14036a2a2fecd9fdfe1917dc46c7b.php 第 82 行.
+INFO: Run ParseTemplate Behavior [ RunTime:0.013072s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013241s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000740s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000632s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000503s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000673s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002815s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.000921s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001021s ]
+
+[ 2016-04-18T17:01:01+08:00 ] 0.0.0.0 /github/dongman/index.php
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000865s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000994s ]
+SQL: SHOW COLUMNS FROM `cartoon` [ RunTime:0.005669s ]
+SQL: SELECT * FROM `cartoon` ORDER BY id desc  [ RunTime:0.000375s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.001199s ]
+INFO: [ view_template ] --END-- [ RunTime:0.001346s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] A non well formed numeric value encountered F:\server\wamp\www\github\dongman\homn\Runtime\Cache\92b14036a2a2fecd9fdfe1917dc46c7b.php 第 82 行.
+INFO: Run ParseTemplate Behavior [ RunTime:0.010756s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010886s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000507s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000455s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000373s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000538s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002079s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.000594s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000671s ]
+
+[ 2016-04-18T17:01:08+08:00 ] 0.0.0.0 /github/dongman/index.php
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000703s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000812s ]
+SQL: SHOW COLUMNS FROM `cartoon` [ RunTime:0.003598s ]
+SQL: SELECT * FROM `cartoon` ORDER BY id desc  [ RunTime:0.000385s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.001009s ]
+INFO: [ view_template ] --END-- [ RunTime:0.001128s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] A non well formed numeric value encountered F:\server\wamp\www\github\dongman\homn\Runtime\Cache\92b14036a2a2fecd9fdfe1917dc46c7b.php 第 82 行.
+INFO: Run ParseTemplate Behavior [ RunTime:0.010220s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010357s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000613s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000449s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000373s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000495s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002134s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.000565s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000632s ]
+
+[ 2016-04-18T17:01:24+08:00 ] 0.0.0.0 /github/dongman/index.php
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001159s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001504s ]
+SQL: SHOW COLUMNS FROM `cartoon` [ RunTime:0.004891s ]
+SQL: SELECT * FROM `cartoon` ORDER BY id desc  [ RunTime:0.000340s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.000932s ]
+INFO: [ view_template ] --END-- [ RunTime:0.001029s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] A non well formed numeric value encountered F:\server\wamp\www\github\dongman\homn\Runtime\Cache\92b14036a2a2fecd9fdfe1917dc46c7b.php 第 82 行.
+INFO: Run ParseTemplate Behavior [ RunTime:0.009620s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009733s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000584s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000610s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000405s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000658s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002564s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.000732s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000810s ]
+
+[ 2016-04-18T17:01:25+08:00 ] 0.0.0.0 /github/dongman/index.php
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001554s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001771s ]
+SQL: SHOW COLUMNS FROM `cartoon` [ RunTime:0.007222s ]
+SQL: SELECT * FROM `cartoon` ORDER BY id desc  [ RunTime:0.000532s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.001668s ]
+INFO: [ view_template ] --END-- [ RunTime:0.001879s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] A non well formed numeric value encountered F:\server\wamp\www\github\dongman\homn\Runtime\Cache\92b14036a2a2fecd9fdfe1917dc46c7b.php 第 82 行.
+INFO: Run ParseTemplate Behavior [ RunTime:0.023043s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.023237s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.001353s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.001732s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.001103s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.001148s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005975s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.001254s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001435s ]
+
+[ 2016-04-18T17:01:25+08:00 ] 0.0.0.0 /github/dongman/index.php
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000621s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000715s ]
+SQL: SHOW COLUMNS FROM `cartoon` [ RunTime:0.003476s ]
+SQL: SELECT * FROM `cartoon` ORDER BY id desc  [ RunTime:0.000249s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.000805s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000894s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] A non well formed numeric value encountered F:\server\wamp\www\github\dongman\homn\Runtime\Cache\92b14036a2a2fecd9fdfe1917dc46c7b.php 第 82 行.
+INFO: Run ParseTemplate Behavior [ RunTime:0.011084s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011185s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000500s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000465s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000384s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000533s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002093s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.000563s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000633s ]
+
+[ 2016-04-18T17:01:37+08:00 ] 0.0.0.0 /github/dongman/index.php
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001660s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001952s ]
+SQL: SHOW COLUMNS FROM `cartoon` [ RunTime:0.003428s ]
+SQL: SELECT * FROM `cartoon` ORDER BY id desc  [ RunTime:0.000291s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.000942s ]
+INFO: [ view_template ] --END-- [ RunTime:0.001039s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] A non well formed numeric value encountered F:\server\wamp\www\github\dongman\homn\Runtime\Cache\92b14036a2a2fecd9fdfe1917dc46c7b.php 第 82 行.
+INFO: Run ParseTemplate Behavior [ RunTime:0.008653s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008781s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000445s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000399s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000304s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000485s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001843s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.000570s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000649s ]
+
+[ 2016-04-18T17:03:56+08:00 ] 0.0.0.0 /github/dongman/index.php
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001211s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001379s ]
+SQL: SHOW COLUMNS FROM `cartoon` [ RunTime:0.003628s ]
+SQL: SELECT * FROM `cartoon` ORDER BY id desc  [ RunTime:0.000271s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.000907s ]
+INFO: [ view_template ] --END-- [ RunTime:0.001038s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] A non well formed numeric value encountered F:\server\wamp\www\github\dongman\homn\Runtime\Cache\92b14036a2a2fecd9fdfe1917dc46c7b.php 第 82 行.
+INFO: Run ParseTemplate Behavior [ RunTime:0.009084s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009391s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000636s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000453s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000400s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000573s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002321s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.000606s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000696s ]
+
+[ 2016-04-18T17:05:23+08:00 ] 0.0.0.0 /github/dongman/index.php
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000749s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000875s ]
+SQL: SHOW COLUMNS FROM `cartoon` [ RunTime:0.004300s ]
+SQL: SELECT * FROM `cartoon` ORDER BY id desc  [ RunTime:0.000471s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.001085s ]
+INFO: [ view_template ] --END-- [ RunTime:0.001214s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] A non well formed numeric value encountered F:\server\wamp\www\github\dongman\homn\Runtime\Cache\92b14036a2a2fecd9fdfe1917dc46c7b.php 第 82 行.
+INFO: Run ParseTemplate Behavior [ RunTime:0.010075s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010199s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000655s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000446s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000391s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000602s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002373s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.000756s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000825s ]
+
+[ 2016-04-18T17:06:33+08:00 ] 0.0.0.0 /github/dongman/index.php
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000741s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000857s ]
+SQL: SHOW COLUMNS FROM `cartoon` [ RunTime:0.005943s ]
+SQL: SELECT * FROM `cartoon` ORDER BY id desc  [ RunTime:0.001071s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.001187s ]
+INFO: [ view_template ] --END-- [ RunTime:0.001318s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] A non well formed numeric value encountered F:\server\wamp\www\github\dongman\homn\Runtime\Cache\92b14036a2a2fecd9fdfe1917dc46c7b.php 第 82 行.
+INFO: Run ParseTemplate Behavior [ RunTime:0.008601s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008710s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.001062s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000750s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000440s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000633s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003542s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.001655s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001777s ]
+
+[ 2016-04-18T17:07:14+08:00 ] 0.0.0.0 /github/dongman/index.php
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000800s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000931s ]
+SQL: SHOW COLUMNS FROM `cartoon` [ RunTime:0.004643s ]
+SQL: SELECT * FROM `cartoon` ORDER BY id desc  [ RunTime:0.000362s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.001041s ]
+INFO: [ view_template ] --END-- [ RunTime:0.001161s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] A non well formed numeric value encountered F:\server\wamp\www\github\dongman\homn\Runtime\Cache\92b14036a2a2fecd9fdfe1917dc46c7b.php 第 82 行.
+INFO: Run ParseTemplate Behavior [ RunTime:0.013156s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013276s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000763s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000652s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000506s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000797s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003025s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.000850s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000950s ]
+
+[ 2016-04-18T17:07:15+08:00 ] 0.0.0.0 /github/dongman/index.php
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001405s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001672s ]
+SQL: SHOW COLUMNS FROM `cartoon` [ RunTime:0.003532s ]
+SQL: SELECT * FROM `cartoon` ORDER BY id desc  [ RunTime:0.000248s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.000755s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000835s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] A non well formed numeric value encountered F:\server\wamp\www\github\dongman\homn\Runtime\Cache\92b14036a2a2fecd9fdfe1917dc46c7b.php 第 82 行.
+INFO: Run ParseTemplate Behavior [ RunTime:0.009781s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009870s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000533s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000439s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000392s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000582s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002150s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.000625s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000693s ]
+
+[ 2016-04-18T17:07:15+08:00 ] 0.0.0.0 /github/dongman/index.php
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000595s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000696s ]
+SQL: SHOW COLUMNS FROM `cartoon` [ RunTime:0.003333s ]
+SQL: SELECT * FROM `cartoon` ORDER BY id desc  [ RunTime:0.000270s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.000815s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000900s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] A non well formed numeric value encountered F:\server\wamp\www\github\dongman\homn\Runtime\Cache\92b14036a2a2fecd9fdfe1917dc46c7b.php 第 82 行.
+INFO: Run ParseTemplate Behavior [ RunTime:0.008473s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008584s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000578s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000491s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000410s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000526s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002227s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.000574s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000646s ]
+
+[ 2016-04-18T17:09:00+08:00 ] 0.0.0.0 /github/dongman/index.php
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000783s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000932s ]
+SQL: SHOW COLUMNS FROM `cartoon` [ RunTime:0.004187s ]
+SQL: SELECT * FROM `cartoon` ORDER BY id desc  [ RunTime:0.000279s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.000834s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000916s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] A non well formed numeric value encountered F:\server\wamp\www\github\dongman\homn\Runtime\Cache\92b14036a2a2fecd9fdfe1917dc46c7b.php 第 82 行.
+INFO: Run ParseTemplate Behavior [ RunTime:0.008472s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008561s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000504s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000457s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000358s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000528s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002046s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.000558s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000627s ]
+
+[ 2016-04-18T17:09:34+08:00 ] 0.0.0.0 /github/dongman/index.php
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001051s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001216s ]
+SQL: SHOW COLUMNS FROM `cartoon` [ RunTime:0.005461s ]
+SQL: SELECT * FROM `cartoon` ORDER BY id desc  [ RunTime:0.000455s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.001350s ]
+INFO: [ view_template ] --END-- [ RunTime:0.001500s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] A non well formed numeric value encountered F:\server\wamp\www\github\dongman\homn\Runtime\Cache\92b14036a2a2fecd9fdfe1917dc46c7b.php 第 82 行.
+INFO: Run ParseTemplate Behavior [ RunTime:0.013028s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013184s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000529s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000457s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000350s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000576s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002118s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.000572s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000640s ]
+
+[ 2016-04-18T17:10:50+08:00 ] 0.0.0.0 /github/dongman/index.php
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001995s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002272s ]
+SQL: SHOW COLUMNS FROM `cartoon` [ RunTime:0.004299s ]
+SQL: SELECT * FROM `cartoon` ORDER BY id desc  [ RunTime:0.000329s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.000961s ]
+INFO: [ view_template ] --END-- [ RunTime:0.001062s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] A non well formed numeric value encountered F:\server\wamp\www\github\dongman\homn\Runtime\Cache\92b14036a2a2fecd9fdfe1917dc46c7b.php 第 82 行.
+INFO: Run ParseTemplate Behavior [ RunTime:0.010938s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011111s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.001095s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000986s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000686s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000986s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004173s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.001186s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001303s ]
+
+[ 2016-04-18T17:12:30+08:00 ] 0.0.0.0 /github/dongman/index.php
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000859s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000990s ]
+SQL: SHOW COLUMNS FROM `cartoon` [ RunTime:0.003755s ]
+SQL: SELECT * FROM `cartoon` ORDER BY id desc  [ RunTime:0.000362s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.000928s ]
+INFO: [ view_template ] --END-- [ RunTime:0.001020s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] A non well formed numeric value encountered F:\server\wamp\www\github\dongman\homn\Runtime\Cache\92b14036a2a2fecd9fdfe1917dc46c7b.php 第 82 行.
+INFO: Run ParseTemplate Behavior [ RunTime:0.008579s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008688s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000583s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000506s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000357s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000613s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002263s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.000677s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000777s ]
+
+[ 2016-04-18T17:12:33+08:00 ] 0.0.0.0 /github/dongman/index.php
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001209s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001375s ]
+SQL: SHOW COLUMNS FROM `cartoon` [ RunTime:0.003162s ]
+SQL: SELECT * FROM `cartoon` ORDER BY id desc  [ RunTime:0.000294s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.000966s ]
+INFO: [ view_template ] --END-- [ RunTime:0.001057s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] A non well formed numeric value encountered F:\server\wamp\www\github\dongman\homn\Runtime\Cache\92b14036a2a2fecd9fdfe1917dc46c7b.php 第 82 行.
+INFO: Run ParseTemplate Behavior [ RunTime:0.008377s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008498s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000611s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000476s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000351s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000568s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002228s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.000682s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000781s ]
+
+[ 2016-04-18T17:12:55+08:00 ] 0.0.0.0 /github/dongman/index.php
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001009s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001171s ]
+SQL: SHOW COLUMNS FROM `cartoon` [ RunTime:0.003502s ]
+SQL: SELECT * FROM `cartoon` ORDER BY id desc  [ RunTime:0.000347s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.000823s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000924s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] A non well formed numeric value encountered F:\server\wamp\www\github\dongman\homn\Runtime\Cache\92b14036a2a2fecd9fdfe1917dc46c7b.php 第 82 行.
+INFO: Run ParseTemplate Behavior [ RunTime:0.008565s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008661s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000581s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000440s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000372s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000560s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002147s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.000969s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001109s ]
+
+[ 2016-04-18T17:13:46+08:00 ] 0.0.0.0 /github/dongman/index.php
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001110s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001322s ]
+SQL: SHOW COLUMNS FROM `cartoon` [ RunTime:0.004786s ]
+SQL: SELECT * FROM `cartoon` ORDER BY id desc  [ RunTime:0.000328s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.001031s ]
+INFO: [ view_template ] --END-- [ RunTime:0.001137s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] A non well formed numeric value encountered F:\server\wamp\www\github\dongman\homn\Runtime\Cache\92b14036a2a2fecd9fdfe1917dc46c7b.php 第 82 行.
+INFO: Run ParseTemplate Behavior [ RunTime:0.008597s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008734s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000680s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000475s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000350s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000652s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002412s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.000746s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000818s ]
+
+[ 2016-04-18T17:13:48+08:00 ] 0.0.0.0 /github/dongman/index.php
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001196s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001395s ]
+SQL: SHOW COLUMNS FROM `cartoon` [ RunTime:0.003343s ]
+SQL: SELECT * FROM `cartoon` ORDER BY id desc  [ RunTime:0.000308s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.000926s ]
+INFO: [ view_template ] --END-- [ RunTime:0.001025s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] A non well formed numeric value encountered F:\server\wamp\www\github\dongman\homn\Runtime\Cache\92b14036a2a2fecd9fdfe1917dc46c7b.php 第 82 行.
+INFO: Run ParseTemplate Behavior [ RunTime:0.008425s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008526s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000524s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000459s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000363s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000531s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002083s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.000577s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000649s ]
+
+[ 2016-04-18T17:14:07+08:00 ] 0.0.0.0 /github/dongman/index.php
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001430s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001667s ]
+SQL: SHOW COLUMNS FROM `cartoon` [ RunTime:0.003576s ]
+SQL: SELECT * FROM `cartoon` ORDER BY id desc  [ RunTime:0.000325s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.000913s ]
+INFO: [ view_template ] --END-- [ RunTime:0.001010s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] A non well formed numeric value encountered F:\server\wamp\www\github\dongman\homn\Runtime\Cache\92b14036a2a2fecd9fdfe1917dc46c7b.php 第 82 行.
+INFO: Run ParseTemplate Behavior [ RunTime:0.009783s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009926s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000645s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000581s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000442s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000647s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002562s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.000714s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000812s ]
+
+[ 2016-04-18T17:14:45+08:00 ] 0.0.0.0 /github/dongman/index.php
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001546s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001771s ]
+SQL: SHOW COLUMNS FROM `cartoon` [ RunTime:0.003577s ]
+SQL: SELECT * FROM `cartoon` ORDER BY id desc  [ RunTime:0.000324s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.000894s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000980s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] A non well formed numeric value encountered F:\server\wamp\www\github\dongman\homn\Runtime\Cache\92b14036a2a2fecd9fdfe1917dc46c7b.php 第 82 行.
+INFO: Run ParseTemplate Behavior [ RunTime:0.008378s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008466s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000531s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000464s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000349s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000527s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002066s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.000617s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000692s ]
+
+[ 2016-04-18T17:15:11+08:00 ] 0.0.0.0 /github/dongman/index.php
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000810s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000943s ]
+SQL: SHOW COLUMNS FROM `cartoon` [ RunTime:0.031591s ]
+SQL: SELECT * FROM `cartoon` ORDER BY id desc  [ RunTime:0.000333s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.000812s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000896s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] A non well formed numeric value encountered F:\server\wamp\www\github\dongman\homn\Runtime\Cache\92b14036a2a2fecd9fdfe1917dc46c7b.php 第 82 行.
+INFO: Run ParseTemplate Behavior [ RunTime:0.008385s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008513s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000622s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000446s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000385s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000496s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002165s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.000612s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000701s ]
+
+[ 2016-04-18T17:15:21+08:00 ] 0.0.0.0 /github/dongman/index.php
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001681s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001883s ]
+SQL: SHOW COLUMNS FROM `cartoon` [ RunTime:0.003153s ]
+SQL: SELECT * FROM `cartoon` ORDER BY id desc  [ RunTime:0.000273s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.000868s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000958s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] A non well formed numeric value encountered F:\server\wamp\www\github\dongman\homn\Runtime\Cache\92b14036a2a2fecd9fdfe1917dc46c7b.php 第 82 行.
+INFO: Run ParseTemplate Behavior [ RunTime:0.008191s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008289s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000524s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000469s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000389s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000611s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002222s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.000756s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000847s ]
+
+[ 2016-04-18T17:15:32+08:00 ] 0.0.0.0 /github/dongman/index.php
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001021s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001235s ]
+SQL: SHOW COLUMNS FROM `cartoon` [ RunTime:0.003759s ]
+SQL: SELECT * FROM `cartoon` ORDER BY id desc  [ RunTime:0.000336s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.000976s ]
+INFO: [ view_template ] --END-- [ RunTime:0.001074s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] A non well formed numeric value encountered F:\server\wamp\www\github\dongman\homn\Runtime\Cache\92b14036a2a2fecd9fdfe1917dc46c7b.php 第 82 行.
+INFO: Run ParseTemplate Behavior [ RunTime:0.009632s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009758s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000531s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000453s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000365s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000546s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002095s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.000717s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000805s ]
+
+[ 2016-04-18T17:21:22+08:00 ] 0.0.0.0 /github/dongman/index.php
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000644s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000752s ]
+SQL: SHOW COLUMNS FROM `cartoon` [ RunTime:0.003520s ]
+SQL: SELECT * FROM `cartoon` ORDER BY id desc  [ RunTime:0.000368s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.002041s ]
+INFO: [ view_template ] --END-- [ RunTime:0.002163s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] A non well formed numeric value encountered F:\server\wamp\www\github\dongman\homn\Runtime\Cache\92b14036a2a2fecd9fdfe1917dc46c7b.php 第 82 行.
+INFO: Run ParseTemplate Behavior [ RunTime:0.010975s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011087s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000518s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000459s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000557s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000645s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002403s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.000570s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000641s ]
+
+[ 2016-04-18T18:46:42+08:00 ] 0.0.0.0 /github/dongman/index.php
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000675s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000776s ]
+SQL: SHOW COLUMNS FROM `cartoon` [ RunTime:0.003808s ]
+SQL: SELECT * FROM `cartoon` ORDER BY id desc  [ RunTime:0.000307s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.000898s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000983s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] A non well formed numeric value encountered F:\server\wamp\www\github\dongman\homn\Runtime\Cache\92b14036a2a2fecd9fdfe1917dc46c7b.php 第 82 行.
+INFO: Run ParseTemplate Behavior [ RunTime:0.008425s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008547s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000826s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000551s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000475s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000603s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002731s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.000593s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000667s ]
+
+[ 2016-04-18T18:47:18+08:00 ] 0.0.0.0 /github/dongman/index.php
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000621s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000761s ]
+SQL: SHOW COLUMNS FROM `cartoon` [ RunTime:0.114465s ]
+SQL: SELECT * FROM `cartoon` ORDER BY id desc  [ RunTime:0.000313s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.000978s ]
+INFO: [ view_template ] --END-- [ RunTime:0.001095s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] A non well formed numeric value encountered F:\server\wamp\www\github\dongman\homn\Runtime\Cache\92b14036a2a2fecd9fdfe1917dc46c7b.php 第 82 行.
+INFO: Run ParseTemplate Behavior [ RunTime:0.008915s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009049s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000488s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000418s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000321s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000496s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001928s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.000536s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000608s ]
+

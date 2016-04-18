@@ -1,0 +1,153 @@
+[ 2016-04-15T00:22:28+08:00 ] 0.0.0.0 /github/dongman/admin.php
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.040893s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.054439s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.103158s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.103690s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.012737s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.016743s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.009343s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.020210s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.059966s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.043851s ]
+INFO: [ view_end ] --END-- [ RunTime:0.043974s ]
+
+[ 2016-04-15T00:58:57+08:00 ] 0.0.0.0 /github/dongman/admin.php
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.002147s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002386s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.002679s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002962s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.001435s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.001265s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000691s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.001555s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005489s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.001317s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001486s ]
+
+[ 2016-04-15T00:58:57+08:00 ] 0.0.0.0 /github/dongman/admin.php
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.023512s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.023653s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.001046s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.001189s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000492s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000461s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000297s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000598s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002159s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.000938s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001059s ]
+
+[ 2016-04-15T00:58:59+08:00 ] 0.0.0.0 /github/dongman/admin.php
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000506s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000614s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.000858s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000966s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000314s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000336s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000227s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000457s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001603s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.000666s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000782s ]
+
+[ 2016-04-15T01:00:51+08:00 ] 0.0.0.0 /github/dongman/admin.php
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000485s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000586s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.000775s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000868s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000313s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000329s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000233s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000444s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001546s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.000737s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000901s ]
+
+[ 2016-04-15T01:00:52+08:00 ] 0.0.0.0 /github/dongman/admin.php
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000426s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000513s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.000627s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000702s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000252s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000293s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000185s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000453s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001400s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.000648s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000716s ]
+
+[ 2016-04-15T01:00:53+08:00 ] 0.0.0.0 /github/dongman/admin.php
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000470s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000575s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.000869s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000977s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000332s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000357s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000240s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000476s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001643s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.000640s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000726s ]
+
+[ 2016-04-15T01:00:53+08:00 ] 0.0.0.0 /github/dongman/admin.php
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000527s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000632s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.000765s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000865s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000608s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000524s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000231s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000442s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002116s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.000745s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000834s ]
+
+[ 2016-04-15T01:00:53+08:00 ] 0.0.0.0 /github/dongman/admin.php
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000636s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000762s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.000711s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000800s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000288s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000309s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000195s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000403s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001404s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.000613s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000689s ]
+

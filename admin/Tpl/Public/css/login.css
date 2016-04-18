@@ -1,0 +1,20 @@
+.login{
+	height: 250px;
+	width: 400px;
+	border-radius: 25px 0 25px 0;
+	box-shadow: 0 0 10px 10px #ccc;
+	margin: 100px auto 0 auto;
+	padding: 30px 20px 10px 20px;
+}
+.input-group{
+	margin-bottom: 20px;
+}
+.button{
+	margin-left:5px;
+}
+.img{
+	height: 20px;
+}
+.cursor{
+	cursor: pointer;
+}

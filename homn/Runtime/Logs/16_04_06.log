@@ -1,0 +1,368 @@
+[ 2016-04-06T08:57:32+08:00 ] ERR: (ThinkException) 无法加载模块:index
+[ 2016-04-06T08:57:46+08:00 ] ERR: (ThinkException) 无法加载模块:index
+[ 2016-04-06T08:57:52+08:00 ] 0.0.0.0 /php/thinkphp/index.php/
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000596s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000709s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000434s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000523s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.220185s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.220439s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.014064s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.007817s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.015179s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.002313s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.040288s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.003514s ]
+INFO: [ view_end ] --END-- [ RunTime:0.003896s ]
+
+[ 2016-04-06T08:58:05+08:00 ] ERR: (ThinkException) 无法加载模块:index
+[ 2016-04-06T08:58:12+08:00 ] 0.0.0.0 /php/thinkphp/index.php/Index/
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000703s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000817s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000435s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000524s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.000765s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000855s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000379s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000357s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000233s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000409s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001633s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.000457s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000538s ]
+
+[ 2016-04-06T08:58:20+08:00 ] 0.0.0.0 /php/thinkphp/index.php/Index/Index
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000622s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000739s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000487s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000582s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.000817s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000909s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000310s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000330s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000236s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000429s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001550s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.000483s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000586s ]
+
+[ 2016-04-06T08:58:29+08:00 ] 0.0.0.0 /php/thinkphp/index.php/Index/Index.html
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000597s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000715s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000465s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000557s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.000773s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000867s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000307s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000337s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000232s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000407s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001529s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.000459s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000541s ]
+
+[ 2016-04-06T08:58:37+08:00 ] 0.0.0.0 /php/thinkphp/index.php/Index/Index.shtml
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000608s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000723s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000534s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000670s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.001014s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.001140s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000318s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000336s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000232s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000413s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001546s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.000466s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000548s ]
+
+[ 2016-04-06T08:59:35+08:00 ] ERR: (ThinkException) 无法加载模块:User
+[ 2016-04-06T08:59:40+08:00 ] ERR: (ThinkException) 无法加载模块:User
+[ 2016-04-06T08:59:58+08:00 ] ERR: (ThinkException) 无法加载模块:User
+[ 2016-04-06T09:02:21+08:00 ] 0.0.0.0 /php/thinkphp/index.php/User/
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.002831s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003428s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001450s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001741s ]
+
+[ 2016-04-06T09:02:21+08:00 ] 0.0.0.0 /php/thinkphp/index.php/User/
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.002402s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002865s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001427s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001716s ]
+
+[ 2016-04-06T09:02:58+08:00 ] ERR: (ThinkException) 非法操作:User
+[ 2016-04-06T09:03:25+08:00 ] 0.0.0.0 /php/thinkphp/index.php/User/index
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000623s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000738s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000438s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000527s ]
+
+[ 2016-04-06T09:03:34+08:00 ] ERR: (ThinkException) 非法操作:add
+[ 2016-04-06T09:03:50+08:00 ] 0.0.0.0 /php/thinkphp/index.php/User/add
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.001947s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002286s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001773s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002085s ]
+
+[ 2016-04-06T09:03:58+08:00 ] 0.0.0.0 /php/thinkphp/index.php/User/add.html
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000772s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000884s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000531s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000659s ]
+
+[ 2016-04-06T09:05:39+08:00 ] ERR: (ThinkException) 非法操作:add.html
+[ 2016-04-06T09:06:04+08:00 ] ERR: (ThinkException) 非法操作:add.html
+[ 2016-04-06T09:06:04+08:00 ] ERR: (ThinkException) 非法操作:add.html
+[ 2016-04-06T09:06:05+08:00 ] ERR: (ThinkException) 非法操作:add.html
+[ 2016-04-06T09:06:05+08:00 ] ERR: (ThinkException) 非法操作:add.html
+[ 2016-04-06T09:06:17+08:00 ] ERR: (ThinkException) 参数错误或者未定义:a
+[ 2016-04-06T09:06:38+08:00 ] ERR: (ThinkException) 参数错误或者未定义:a
+[ 2016-04-06T09:06:38+08:00 ] ERR: (ThinkException) 参数错误或者未定义:a
+[ 2016-04-06T09:06:38+08:00 ] ERR: (ThinkException) 参数错误或者未定义:a
+[ 2016-04-06T09:06:39+08:00 ] ERR: (ThinkException) 参数错误或者未定义:a
+[ 2016-04-06T09:06:45+08:00 ] ERR: (ThinkException) 参数错误或者未定义:a
+[ 2016-04-06T09:06:49+08:00 ] ERR: (ThinkException) 参数错误或者未定义:a
+[ 2016-04-06T09:06:57+08:00 ] ERR: (ThinkException) 参数错误或者未定义:a
+[ 2016-04-06T09:06:58+08:00 ] ERR: (ThinkException) 参数错误或者未定义:a
+[ 2016-04-06T09:06:58+08:00 ] ERR: (ThinkException) 参数错误或者未定义:a
+[ 2016-04-06T09:06:58+08:00 ] ERR: (ThinkException) 参数错误或者未定义:a
+[ 2016-04-06T09:09:21+08:00 ] ERR: (ThinkException) 参数错误或者未定义:a
+[ 2016-04-06T09:09:24+08:00 ] ERR: (ThinkException) 参数错误或者未定义:a
+[ 2016-04-06T09:09:30+08:00 ] ERR: (ThinkException) 非法操作:1
+[ 2016-04-06T09:09:51+08:00 ] ERR: (ThinkException) 参数错误或者未定义:a
+[ 2016-04-06T09:11:41+08:00 ] 0.0.0.0 /php/thinkphp/index.php/User/add/1
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.002771s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003211s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.002260s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002663s ]
+
+[ 2016-04-06T09:11:47+08:00 ] 0.0.0.0 /php/thinkphp/index.php/User/add
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000689s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000804s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000460s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000549s ]
+
+[ 2016-04-06T09:15:33+08:00 ] 0.0.0.0 /php/thinkphp/index.php/User/add
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.002410s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002758s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001648s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001945s ]
+
+[ 2016-04-06T09:15:33+08:00 ] 0.0.0.0 /php/thinkphp/index.php/User/add
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.001993s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002336s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001419s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001706s ]
+
+[ 2016-04-06T09:15:33+08:00 ] 0.0.0.0 /php/thinkphp/index.php/User/add
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.002942s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003323s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001482s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001806s ]
+
+[ 2016-04-06T09:15:34+08:00 ] 0.0.0.0 /php/thinkphp/index.php/User/add
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.002554s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002922s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001735s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002097s ]
+
+[ 2016-04-06T09:15:34+08:00 ] 0.0.0.0 /php/thinkphp/index.php/User/add
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.001924s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002266s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001504s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001820s ]
+
+[ 2016-04-06T09:15:40+08:00 ] 0.0.0.0 /php/thinkphp/index.php/User/add
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.002909s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003601s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001875s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002253s ]
+
+[ 2016-04-06T09:15:40+08:00 ] 0.0.0.0 /php/thinkphp/index.php/User/add
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.001953s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002380s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001742s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002064s ]
+
+[ 2016-04-06T09:15:40+08:00 ] 0.0.0.0 /php/thinkphp/index.php/User/add
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.002066s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002449s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001501s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001811s ]
+
+[ 2016-04-06T09:15:41+08:00 ] 0.0.0.0 /php/thinkphp/index.php/User/add
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.001928s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002273s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001412s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001712s ]
+
+[ 2016-04-06T09:15:51+08:00 ] 0.0.0.0 /php/thinkphp/index.php/User/add
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.001887s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002226s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001397s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001687s ]
+
+[ 2016-04-06T09:15:52+08:00 ] 0.0.0.0 /php/thinkphp/index.php/User/add
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.002412s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002790s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001477s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001770s ]
+
+[ 2016-04-06T09:15:52+08:00 ] 0.0.0.0 /php/thinkphp/index.php/User/add
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.001964s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002351s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001025s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001224s ]
+
+[ 2016-04-06T09:15:53+08:00 ] 0.0.0.0 /php/thinkphp/index.php/User/add
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.001905s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002249s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001899s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002335s ]
+
+[ 2016-04-06T09:15:53+08:00 ] 0.0.0.0 /php/thinkphp/index.php/User/add
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.001927s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002271s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001417s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001703s ]
+
+[ 2016-04-06T09:15:57+08:00 ] 0.0.0.0 /php/thinkphp/index.php/User/add
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.002567s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003108s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001748s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002181s ]
+
+[ 2016-04-06T09:15:58+08:00 ] 0.0.0.0 /php/thinkphp/index.php/User/add
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.002010s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002384s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001756s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002230s ]
+
+[ 2016-04-06T09:15:58+08:00 ] 0.0.0.0 /php/thinkphp/index.php/User/add
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.002025s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002374s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001532s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001840s ]
+
+[ 2016-04-06T09:15:58+08:00 ] 0.0.0.0 /php/thinkphp/index.php/User/add
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.002081s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002609s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001437s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001727s ]
+
+[ 2016-04-06T09:16:10+08:00 ] 0.0.0.0 /php/thinkphp/index.php/User/add
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.002900s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003365s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001602s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001937s ]
+
+[ 2016-04-06T09:16:10+08:00 ] 0.0.0.0 /php/thinkphp/index.php/User/add
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.002059s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002413s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.002320s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002646s ]
+
+[ 2016-04-06T09:16:10+08:00 ] 0.0.0.0 /php/thinkphp/index.php/User/add
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.001258s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001477s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000909s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001091s ]
+
+[ 2016-04-06T09:35:26+08:00 ] 0.0.0.0 /php/thinkphp/index.php/User/add
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000821s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000951s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000547s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000647s ]
+
+[ 2016-04-06T09:35:33+08:00 ] 0.0.0.0 /php/thinkphp/index.php/User/add.html
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000593s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000708s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000440s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000531s ]
+

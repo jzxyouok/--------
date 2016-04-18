@@ -1,0 +1,32 @@
+.navbar-inverse{
+	margin-bottom: 1px;
+	border-radius: 5px 5px 0 0;
+}
+.panel-primary{
+	margin-top: 5px;
+	margin-bottom: 10px;
+}
+.carousel-inner img{
+	width: 100%;
+}
+.label-success{
+	margin-left: 10px;
+}
+.panel-body p{
+	margin-top: 10px;
+	margin-bottom: 15px;
+	width: 100%;
+}
+.panel-body p:first-child img{
+	width: 100%;
+}
+.footer{
+	height: 50px;
+	width: 100%;
+	border-radius:5px;
+	background: #101010;
+	color: #fff;
+	text-align: center;
+	line-height: 50px;
+	margin-top: 0px;
+}

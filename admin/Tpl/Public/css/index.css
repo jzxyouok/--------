@@ -1,0 +1,66 @@
+.left{
+	padding: 5px 15px 0 5px;
+
+}
+.right{
+	padding: 0 0px 10 20px;
+	border-left: 1px solid #ccc;
+	min-height:450px; 
+}
+.list-group a{
+	cursor: pointer;
+}
+.content{
+	resize:none;
+}
+.table{
+	table-layout: fixed;
+}
+.table th{
+	font-size: 13px;
+}
+.table td{
+   font-size: 12px;
+   height: 30px;
+   overflow: hidden;
+   white-space: nowrap;
+   text-overflow:ellipsis;
+}
+#id{
+	width: 5%;
+	text-align: center;
+}
+#title{
+	width: 10%;
+	text-align: center;
+}
+#content{
+	width: 55%;
+	text-align: center;
+}
+#time{
+	width: 15%;
+	text-align: center;
+}
+#editor{
+	width: 7%;
+	text-align: center;
+}
+#edit{
+	width: 10%;
+	text-align: center;
+}
+.panel{
+	margin-top: 20px;
+	margin-bottom:30px;
+}
+.input-group{
+	margin-top: 15px;
+}
+.panel-footer{
+	height: 40px;
+}
+.btn{
+	margin-right: 15px;
+	height: 30px;
+}

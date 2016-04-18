@@ -1,0 +1,66 @@
+<extend name="Index:index"/>
+<block name="right">  
+      <table class="table table-striped">
+             <thead>
+             	<tr>
+             		<th id="id">ID</th>
+                    <th id="title">标题</th>
+                    <th id="content">内容</th>
+                    <th id="editor">编辑</th>
+                    <th id="time">时间</th>
+                    <th id="edit">管理</th>
+             	</tr>
+                   
+             </thead>
+             <tbody>
+             	   <volist name="rows" id="row">
+	                   <tr>
+		                   <td><{$row['id']}></td>
+		                   <td><{$row['title']}></td>
+		                   <td><{$row['content']}></td>
+		                   <td><{$row['editor']}></td>
+		                   <td><{$row['time']|date="Y-m-d H:i:s",###}></td>
+		                   <td><a class="update" href="javascript:;">修改</a>|<a href="__URL__/delete/id/<{$row['id']}>">删除</a></td>
+
+	                   </tr>
+	               </volist>
+             </tbody>
+      </table>
+
+      <div class="panel panel-danger hidden">
+            <div class="panel-heading">
+                 <h4>修改</h4>
+            </div>
+            <form method="post" action="__URL__/update">
+                 <div class="panel-body">
+            	    <div class="input-group">
+                    <span class="input-group-addon">&nbsp;I D&nbsp;</span>
+	                        <input type="text" class="form-control" name="id" id="input_id" readonly/>
+	                 </div>
+	                 <div class="input-group">
+	                        <span class="input-group-addon">标题</span>
+	                        <input type="text" class="form-control" name="title" id="input_title"/>
+	                 </div>
+	                 <div class="input-group">
+	                        <span class="input-group-addon">编辑</span>
+	                        <input type="text" class="form-control" name="editor" id="input_editor"/>
+	                 </div>
+	                 <div class="input-group">
+	                        <span class="input-group-addon">时间</span>
+	                        <input type="text" class="form-control" name="time" id="input_time"/>
+	                 </div>
+	                 <div class="input-group">
+	                        <span class="input-group-addon">内容</span>
+	                        <input type="text" class="form-control" name="content" id="input_content"/>
+	                 </div>            	
+                </div>
+                <div class="panel-footer">
+                      <input type="submit" class="btn btn-primary pull-right" value="提交"/>
+                      <input type="reset" class="btn btn-danger pull-right" value="清空"/>
+                </div>
+        </form>
+      </div>
+
+
+
+</block>
